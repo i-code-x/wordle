@@ -1,0 +1,11 @@
+# Small answer list for deterministic tests
+crane
+crate
+crave
+slate
+trace
+brine
+abide
+elder
+eagle
+hello
